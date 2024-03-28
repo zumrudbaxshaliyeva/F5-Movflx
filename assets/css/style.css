@@ -127,3 +127,25 @@ color: black;
     text-shadow: 0px 3px 24px rgba(228, 216, 4, 0.5);
     border-color: #e4d804;
 }
+
+.card-img-top_height{
+    height: 240px;
+    object-fit: cover;
+}
+
+.vote_count{
+    padding: 2px 8px;
+    border-radius: 5px;
+    background-color: rgb(86, 86, 255);
+    color: white;
+    width: fit-content;
+}
+
+
+.vote_lang{
+    padding: 2px 8px;
+    border-radius: 5px;
+    background-color: rgb(123, 11, 3);
+    color: white;
+    width: fit-content;
+}
