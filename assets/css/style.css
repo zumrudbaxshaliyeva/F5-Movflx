@@ -1,8 +1,35 @@
 .divar{
 height: 100vh;
 width: 100%;
-background: url(bak\,sekil.jpg);
+background: url(./../img/bak\,sekil.jpg);
 background-position:center ;
 background-size: cover;
 
 }
+.divar__item{
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f0f0f0;
+    padding: 38px 23px;
+    display: block;
+    line-height: 1;
+    color: #e4d804 !important;
+    text-decoration: none;
+
+
+
+}
+.divar__item__wite{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
